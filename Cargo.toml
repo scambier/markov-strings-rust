@@ -8,7 +8,7 @@ keywords = ["markov", "chain", "procedural", "generation", "text"]
 license = "GPL-3.0-only"
 name = "markov_strings"
 repository = "https://github.com/scambier/markov-strings-rust"
-version = "0.1.4"
+version = "0.1.5"
 
 [dependencies]
 rand = "0.8.3"
